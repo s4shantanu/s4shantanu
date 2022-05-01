@@ -1,6 +1,8 @@
 <h1 align='center'> Hi there 👋, I'm Shantanu  👩‍💻 </h1>
 <p align='center'>
-  I live in Maharashtra, India and working as a <b>Python Developer</b> 
+  A Skilled Python Developer 🚀 from India. Always working on some project or learning something new!
+Stacks I have worked with : Python, Django, Flask, HTML, CSS.
+Things I am currently experimenting with : Django, APIs...</b> 
 </p>
 
 <p align='center'>
