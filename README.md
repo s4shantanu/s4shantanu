@@ -1,2 +1,2 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s4shantanu&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s4shantanu)](https://git.io/streak-stats)
