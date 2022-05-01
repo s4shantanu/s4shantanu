@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm SHantanu  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Shantanu  👩‍💻 </h1>
 <p align='center'>
   I live in Maharashtra, India and working as a <b>Python Developer</b> 
 </p>
@@ -15,11 +15,13 @@
 </p>
 
 
-<p align='center'> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s4shantanu&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-  </p>
+<p align='center'>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s4shantanu&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+ </p>
 
-<p align='center'> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4shantanu&show_icons=true&theme=dark&hide_border=true)
-  </p>
+<p align='center'>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4shantanu&show_icons=true&theme=dark&hide_border=true)
+</p>
 
 
 
