@@ -15,9 +15,6 @@
 </p>
 
 
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s4shantanu&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4shantanu&show_icons=true&theme=dark&hide_border=true)
 
 
@@ -25,7 +22,7 @@
 
 <br>
 <p align="right">
-  <a href="https://open.spotify.com/playlist/1HVGan6oGs214oufscycPZ?si=a861dfb858ec4ada"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/playlist/2vZQlE402Ouw4MssPflwvj?si=02fcabe7d3554e92"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   </a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
