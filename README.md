@@ -27,7 +27,8 @@ Things I am currently experimenting with : Django, APIs...</b>
   
 </div>
 
-
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=s4shantanu&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <br>
 <p align="right">
