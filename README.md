@@ -22,6 +22,7 @@ Things I am currently experimenting with : Django, APIs...</b>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4shantanu&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=s4shantanu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
