@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">👋, I'm Shantanu  👩‍💻 </h1>
+<h1 align='center'> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Shantanu  👩‍💻 </h1>
 <p align='center'>
   A Skilled Python Developer 🚀 from India. Always working on some project or learning something new!
 Stacks I have worked with : Python, Django, Flask, HTML, CSS.
