@@ -1,5 +1,9 @@
 <h1 align='center'> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Shantanu👨🏻‍💻 </h1>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+S4shantanu;I+am+a+Python+Developer;Web+Dev;Gaming;Bot+Dev;+%3C3"></a>
+</p>
 <p align='center'>
+ 
   A Skilled Python Developer 🚀 from India. Always working on some project or learning something new!
 Stacks I have worked with : Python, Django, Flask, HTML, CSS.
 Things I am currently experimenting with : Django, APIs...</b> 
