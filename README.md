@@ -32,10 +32,6 @@ Things I am currently experimenting with : Django, APIs...</b>
   
 </div>
 
-#### Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrBlueBird2&row=3&column=7&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
-
 <br>
 <p align="right">
   <a href="https://open.spotify.com/playlist/2vZQlE402Ouw4MssPflwvj?si=02fcabe7d3554e92"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
