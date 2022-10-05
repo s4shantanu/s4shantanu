@@ -20,10 +20,6 @@ Things I am currently experimenting with : Django, APIs...</b>
 
 </p>
 
-<div align="center">
-  
-![Shantanu's GitHub stats width="25px">](https://github-readme-stats.vercel.app/api?username=s4shantanu&show_icons=true&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s4shantanu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
   
 ### ✍️Random Dev Quote
