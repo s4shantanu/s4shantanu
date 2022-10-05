@@ -9,9 +9,6 @@ Stacks I have worked with : Python, Django, Flask, HTML, CSS.
 Things I am currently experimenting with : Django, APIs...</b> 
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
-</p>
 
 <p align='center'>
   <a href="https://twitter.com/s4shaantanu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
