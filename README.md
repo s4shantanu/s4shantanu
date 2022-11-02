@@ -16,8 +16,6 @@ Things I am currently experimenting with : Django, APIs...</b>
   <a href="mailto:rshantanu73@gmail.com?subject=Enter%Here"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=s4shantanu)
   
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
