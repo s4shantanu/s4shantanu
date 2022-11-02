@@ -17,7 +17,7 @@ Things I am currently experimenting with : Django, APIs...</b>
 
 </p>
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=s4shantanu)
   
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
