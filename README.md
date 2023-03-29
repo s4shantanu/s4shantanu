@@ -29,3 +29,7 @@ Things I am currently experimenting with : Django, APIs...</b>
   </a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
+
+## 👀 Profile views
+
+![Visitor Count](https://profile-counter.glitch.me/{s4shantanu}/count.svg) 
