@@ -5,9 +5,9 @@
 <p align='center'>
  
   A Skilled Python Developer 🚀 from India. Always working on some project or learning something new!
-Stacks I have worked with : Python, Java, HTML, CSS. Javascript.
-<b>Freamworks:</b> Django, Flask, React.
-Things I am currently experimenting with : Django Projects, Open-Source contribution and APIs...</b> 
+<i>Stacks I have worked with :</i> Python, Java, HTML, CSS. Javascript.
+<i>Freamworks : </i> Django, Flask, React.
+<i>Things I am currently experimenting with :</i> Django Projects, Open-Source contribution and APIs...</b> 
 </p>
 
 
